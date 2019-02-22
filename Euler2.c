@@ -9,6 +9,7 @@ find the sum of the even-valued terms.
 */
 
 #include <stdio.h>
+
 int main() {
     int first = 0;
     int second = 1;
