@@ -16,3 +16,9 @@
 14) Longest Collatz sequence [837799]
 15) Lattice paths [137846528820]
 16) Power digit sum [1366]
+17) Number letter counts [21124]
+18) Maximum path sum [1074]
+19) Counting Sundays [171]
+20) Factorial digit sum [648]
+21) Amicable numbers [31626]
+
