@@ -21,4 +21,18 @@
 19) Counting Sundays [171]
 20) Factorial digit sum [648]
 21) Amicable numbers [31626]
+22) Names scores [871198282]
+23) Non-abundant sums [4179871]
+24) Lexicographic permutations [2783915460]
+25) 1000-digit Fibonacci number [4782]
+26) Reciprocal cycles [983]
+27) Quadratic primes [-59231]
+28) Number spiral diagonals [669171001]
+29) Distinct powers [9183]
+30) Digit fifth powers [443839]
+31) Coin sums [73682]
+32) Pandigital products [45228]
+33) Digit cancelling fractions [100]
+34) Digit factorials [40730]
+  
 
